@@ -1,4 +1,4 @@
-# Student-Record-Manager
+# Student Record Manager
 Overview
 -----------------------------------------
 The Student Record Manager is a simple Java console application designed to manage and update student records. This project demonstrates fundamental object-oriented programming concepts in Java, including class creation, object manipulation, and user input handling. It was developed as part of a COMP SCI 221 course to reinforce these core principles.
